@@ -9,6 +9,4 @@ and a buzzer provide visual and audio
 signals. The project successfully automates
 gate control, improving safety and efficiency.
 This system could be further enhanced with
-advanced sensors and IoT integration for
-
-real-time monitoring.
+advanced sensors and IoT integration for real-time monitoring.
